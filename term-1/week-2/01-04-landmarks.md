@@ -1,5 +1,7 @@
 # 🏆 Challenge: Landmarks
 
+<br>
+
 ## Challenge 1
 Using IRB, and using Google to get info, assign the height value of the Eiffel Tower, Big Ben and Taj Mahal three variables.
 
@@ -21,4 +23,10 @@ Using these variables, calculate the following...
 
 * Laid out in a straight line, how many Earths would fit between the Earth and the Moon?
 * Laid out in a straight line, how many Earths would fit between the Earth and the Sun?
+
+<br>
+
+<hr>
+
+*Rachael.Colley<span>@coderacademy<span>.edu.au*
 
